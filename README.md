@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive analysis of sentiment in text data using Natural Language Processing (NLP) techniques. The project aims to perform sentiment classification on textual data and gain insights from the sentiment distribution, word usage, and common phrases in different sentiment categories.
 
-## Introduction
+## Introduction 
 
 The primary objective of this project is to understand and analyze sentiment patterns in textual data. The analysis involves preprocessing the text data, performing sentiment classification using machine learning models, and exploring insights from the sentiment distribution, word usage, and common phrases.
 
